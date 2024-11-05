@@ -6,7 +6,7 @@ A informação binária foi explicada como sendo representada por dois níveis d
 A organização dos temas e a clareza nas explicações facilitam a compreensão dos conceitos. A inclusão da tabela de conversão numérica é útil para reforçar a relação entre diferentes bases numéricas. 
 
       
-[Voltar](readme.md)
+[Voltar](../readme.md)
 
 
 
