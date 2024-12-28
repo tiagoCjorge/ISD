@@ -10,7 +10,7 @@ Neste portfólio, apresento uma análise de cada sessão da unidade curricular, 
 - [Aula 04/10/24 - (Conversões)](aulas/aula2.md)
 - [Aula 11/10/24 - (Conversões)](aulas/aula3.md)
 - [Aula 18/10/24 - (Álgebra de Boole)](aulas/aula4.md)
-- [Aula 25/10/24 - (Álgebra de Boole](aulas/aula5.md)
+- [Aula 25/10/24 - (Álgebra de Boole)](aulas/aula5.md)
 - [Aula 08/11/24 - (Circuitos Lógicos)](aulas/aula6.md)
 - [Aula 15/11/24 - (Circuitos Lógicos)](aulas/aula7.md)
 - [Aula 22/11/24 - (Circuitos Integrados)](aulas/aula8.md)
